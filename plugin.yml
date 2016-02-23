@@ -1,1 +1,12 @@
+name: TheQuiver
+main: thequiver\tq\TheQuiver
+api: [1.13.0, 1.12.0]
+version: 1.2 INDEV
+description: MiniGame TheQuiver Plugin [INDEV]
+author: EmreTr1
+commands:
+ thequiver:
+   permission: thwquiver.command.use
+   description: "Plugin Command"
+   usage: "-------- MiniGame Plugin TheQuiver ----------"
 
