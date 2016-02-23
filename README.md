@@ -1,27 +1,5 @@
 # One In The Quiver-Pocketmine
 One In The Quive minigame for pocketmine
- 
-# MiniGame is Working Progress... !
-- Project is started!!
-- Lobby And Spawn Pos (%100) done
-- Language: Turkish :) //You can translate to English
-- PlayerDeathEvent (%100) done
-- game starting event (%95) done
-- and other event and etc. (%65) done
-- Point System (%1) done (i think..) i need help about point system!!
 
-# EXtra Features:
-- PopSounds (%50) there may be errors :D
-- the voices in the game (%100) there may be errors :D
-- the particles in the game (%0)
-- Game Finish particles (%0)
-- Game Starting Sounds (%0)
-
-# :=) ?
-# Minigame NOT FINISHED!!
-
----------------------------------------------
-  #One IN The Quiver == MinePlex Minigame
----------------------------------------------
- ---------- MineDogs Team --------
- HELP ME! about Point System :D
+please wait a bit, hopefully it will be soon :)
+ * I'm working on *
