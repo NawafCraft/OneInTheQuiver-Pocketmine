@@ -68,7 +68,7 @@ class Main extends PluginBase implements Listener
 	
 	public function OnCommand(CommandSender $sender, Command $command, $label, array $args)
 	{
-		if($command->getName()=="thequiver"{
+		if($command->getName()=="thequiver"){
 			$sender->sendMessage(TextFormat::RED . "This Game not avaliable!");
 		}
 	}
